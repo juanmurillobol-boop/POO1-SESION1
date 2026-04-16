@@ -36,7 +36,7 @@ return "coche encendido";
 
 public function marchar(){
 $this->movimiento=true;
-return "coche en movimiento";
+return "coche en movimiento.";
 }
 
 }
